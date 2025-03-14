@@ -25,3 +25,13 @@
 5. - 3D Scatter Plot (Sales Data) – Using mpl_toolkits.mplot3d, ax.scatter(), colormaps, and understanding 3D visualization.
 
 ---
+**Assignment-7**
+`Features`
+1. - Data Collection & Preprocessing – Fetched stock data using yfinance, handled missing values, and prepared data for modeling.
+2. - Feature Engineering – Created a new feature (Day) to represent time progression for better predictions.
+3. - Model Training – Implemented Linear Regression using scikit-learn to predict stock prices.
+4. - Model Evaluation – Assessed performance using Mean Squared Error (MSE) and R-squared (R²) metrics.
+5. - Data Visualization – Plotted actual vs. predicted prices using Matplotlib & Seaborn to analyze trends.
+6. - Deployment with Streamlit – Built an interactive web app to visualize stock trends and predictions.
+
+---
